@@ -27,7 +27,7 @@
 
 A continuación armaremos el circuito en la aplicacion de tinkercad
 
-
+![.](Imagenes/diagramaM.jpg)
 
 4. LISTA DE COMPONENTES
 
@@ -46,7 +46,12 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 5. EXPLICACION 
 
+El metodo de analisis de mallas nos es de gran utilidad al poder analizar cada malla que se encuentre en el circuito por separado y asignar a cada malla una corriente total que se llega a calcular con la ley de voltajes de Kirchhof ya que en esta enuncia que la sumatoria de voltajes es igual a 0, aqui tambien nos ayudaoms de la ley de ohm recordando que v=RI y reemplazamos en la LVK, debemos tomar en cuenta el sentido que le damos a las corrientes ya que de esta dependera el signo que tome, una vez hecho este analisis y tener las ecuaciones de cada malla se puede calcular de varios metodos de sistemas de ecuaciones o podemos armar nuestra matriz y resolverla como una matriz ampliada, tambien se puede ocupar diferentes programas que resuelvan matrices o utilizando la calculadora, y asi finalmente nos el valor de cada corriente.
 
+Tabla 2.1 Resultados obtenidos para el circuito
+![.](Imagenes/tabla.jpg)
+
+Como se puede ver en la tabla, se encuentra los valores experimentales y teoricos, esta claro que no vamos a tener un mayor margen de erro ya que estamos utilizando un simulador virtual, si fuera armado en fisico el margen de error seria un poco mas grande pero en este caso no es asi.
 
 6. CONCLUCION 
 
