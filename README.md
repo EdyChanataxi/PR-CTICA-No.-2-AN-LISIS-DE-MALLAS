@@ -18,7 +18,6 @@
 2. MARCO TEORICO
 
 ![.](Imagenes/Mteorico.png)
-
 ![.](Imagenes/unnamed.jpg)
 
 3. DIAGRAMAS
