@@ -17,11 +17,15 @@
 
 2. MARCO TEORICO
 
+![.](Imagenes/Mteorico.png)
 
+![.](Imagenes/unnamed.jpg)
 
 3. DIAGRAMAS
 
+![.](Imagenes/Malla.jpg)
 
+A continuación armaremos el circuito en la aplicacion de tinkercad
 
 
 
@@ -35,7 +39,7 @@
 |1|Resistor de 390 Ω|
 |1|Resistor de 1kΩ|
 |1|Resistor de 1.2kΩ|
- |1|Resistor de 2.2kΩ|
+|1|Resistor de 2.2kΩ|
 |1|Protoboard|
 
 Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
@@ -46,9 +50,11 @@ Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
 
 6. CONCLUCION 
 
+- Se pudo encontrar el valor de cada corriente que interactua en cada malla mediante un analisis analitico utilizando conceptos antes vistos como las leyes de Kirchhof y aplicar lo que nos dice al analisis de mallas y encontrar el valor teorico.
+- La herramienta de tinkercad con ayuda de un multimetro son arrojan un valor experimental de las corrientes y las podemos comparar con el valor teorico para encontrar su margen de error aunque si bien es cierto que el error sera minimo al utilizar una herramienta virtual, si se pudo sacar su error porcentual.
 
 7. BIBLIOGRAFIA
 
-Las leyes de Kirchhoff. (2019). Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws#:~:text=Ley%20de%20voltaje%20de%20Kirchhoff,malla%20es%20igual%20a%20cero.&text=donde%20n%20es%20el%20n%C3%BAmero,los%20componentes%20en%20la%20malla.&text=Si%20caminas%20alrededor%20de%20la,malla%20es%20igual%20a%20cero.
+Alvarez, H. (2017a, marzo 13). Mapa conceptual de anÃ¡lisis de malla. prezi.com. https://prezi.com/iqiank5jzqzy/mapa-conceptual-de-analisis-de-malla/
 
-R. (2019, 27 mayo). ▷ ¿Cuáles son las Leyes de Kirchhoff? Centro Estudios Cervantinos. https://www.centroestudioscervantinos.es/leyes-de-kirchhoff/
+El método de la corriente de malla (artículo). (2015b, julio 3). Khan Academy. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
