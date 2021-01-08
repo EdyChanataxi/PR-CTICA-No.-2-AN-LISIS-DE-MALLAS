@@ -7,11 +7,13 @@
 
 1.1. OBJETIVO GENERAL
 
-
+-Determinar  analitica y experimentalmente el metodo de mallas para encontrar el valor de las diferentes tensiones que se encuentren en un circuito.
 
  1.2. OBJETIVO ESPECIFICO
 
-
+- Diseñar el circuito usando la herramienta de tinkercad para poder tener una simulacion mas  real y compleder la corriente encerrada en cada malla que cuente el circuito.
+- Analizar corriente de cada malla con ayuda de las leyes de Kirchhof al momento de encontrar las ecuaciones para los calculos.
+- utilizar un multimetro para medir en el simulador los valores que arroja cada corriente y comparar con las obtenidas analiticamente para asi verificar si existe un margen de error.
 
 2. MARCO TEORICO
 
@@ -27,12 +29,13 @@
 
 | CANTIDAD|MATERIAL O EQUIPO|
 | ----- | ---- |
-| 1|Fuente de Voltaje de C.D.|
-|2|Multimetros digitales|
-|1|Resistor de 1 kΩ|
-|2|Resistores de 2.2 kΩ|
-|1|Resistor de 1.8 kΩ|
-|1|Resistor de 3.9 kΩ|
+|1|Fuente de voltaje de C.D|
+|1|Multimetro digital|
+|1|Resistor de 820  Ω|
+|1|Resistor de 390 Ω|
+|1|Resistor de 1kΩ|
+|1|Resistor de 1.2kΩ|
+ |1|Resistor de 2.2kΩ|
 |1|Protoboard|
 
 Tambien se utilizo tinkercad que nos sirvio como laboratorio virtual.
