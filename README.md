@@ -11,7 +11,7 @@
 
  1.2. OBJETIVO ESPECIFICO
 
-- Diseñar el circuito usando la herramienta de tinkercad para poder tener una simulacion mas  real y compleder la corriente encerrada en cada malla que cuente el circuito.
+- Diseñar el circuito usando la herramienta de tinkercad para poder tener una simulacion mas  real y comprender la corriente encerrada en cada malla que cuente el circuito.
 - Analizar corriente de cada malla con ayuda de las leyes de Kirchhof al momento de encontrar las ecuaciones para los calculos.
 - utilizar un multimetro para medir en el simulador los valores que arroja cada corriente y comparar con las obtenidas analiticamente para asi verificar si existe un margen de error.
 
